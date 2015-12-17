@@ -11,11 +11,15 @@
     height: 60px;
 }
 
-#ccContainer {
+#licenseImageContainer {
 	width: 88px;
 	display: inline-block;
 	vertical-align: text-bottom;
 	margin-right: 10px;
+}
+
+#licenseTextContainer {
+	display: inline-block;
 }
 
  .profileLabel {
