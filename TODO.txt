@@ -1,0 +1,9 @@
+- script auto-generazione elenco PGN
+- reskin bottoni navigazione partita
+- layout combo e tabella selezione partite
+- visualizzazione metadati partita
+- testare su mobile
+- caricamento dinamico PGN
+
+
+

@@ -1,5 +1,6 @@
 .credit {
-    margin: 20px 0;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .muted {
@@ -42,6 +43,31 @@
  	text-align: center;
  }
 
+/* chessboard styling */
+.ct-board-container {
+ 	padding: 0px;
+ }
+
  .ct-board-border {
  	border: 0px;
  }
+
+
+.ct-board-move-mainline  
+{   
+    color: black;
+}
+
+.ct-board-move-variation {   
+    color: green;  
+}  
+
+.ct-board-move-comment {   
+    color: green;  
+    font-weight: bold;  
+}
+
+.ct-board-move-current {   
+    color: red;
+}
+
