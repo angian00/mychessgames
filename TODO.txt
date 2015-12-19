@@ -1,7 +1,10 @@
 # TODO
 
-- script auto-generazione elenco PGN
 - caricamento dinamico PGN
+
 - reskin bottoni navigazione partita
 - testare su mobile
+- palette improvements
 
+- transcoding Annotation Glyphs client-side
+https://en.wikipedia.org/wiki/Numeric_Annotation_Glyphs
