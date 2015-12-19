@@ -49,7 +49,7 @@
 				<div class="well">
 						<div><div class="profileLabel">name</div><div class="profileValue">Andrea Giancola</div></div>
 						<div><div class="profileLabel">category</div><div class="profileValue">1^ Naz</div></div>
-						<div><div class="profileLabel">ELO rating (upd 01/12/2015)</div><div class="profileValue">1757</div></div>
+						<div><div class="profileLabel">ELO rating (01/12/2015)</div><div class="profileValue">1757</div></div>
 				</div>
 			</div>
 		</div>
@@ -57,7 +57,7 @@
 
 		<h3>My games</h3>
 		<div class="row">
-			<!--div class="col-md-3"-->
+			<div class="col-md-4">
 				<div class="btn-group">
 					<button type="button" class="btn btn-default">Choose an Event</button>
 					<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -70,11 +70,11 @@
 						<li><a href="#">Event 3</a></li>
 					</ul>
 				</div>
-			<!--/div-->
+			</div>
 		</div>
 
 		<div class="row">
-			<!--div class="col-md-9"-->
+			<div class="col-md-12">
 				<table id="gamesTable" class="table table-bordered table-striped table-condensed table-responsive">
 					<thead>
 						<tr>
@@ -89,23 +89,39 @@
 					</thead>
 
 					<tbody>
-			    		<tr><td>1</td><td>Andrea Giancola</td><td></td><td></td><td>Garry Kasparov</td><td>1-0</td><td>22</td></tr>
-			    		<tr><td>2</td><td>Magnus Carlsen</td><td></td><td></td><td>Andrea Giancola</td><td>0-1</td><td>34</td></tr>
-			    		<tr><td>3</td><td>Judit Polgar</td><td></td><td></td><td>Andrea Giancola</td><td>½-½</td><td>28</td></tr>
-			    	</tbody>
+						<tr><td>1</td><td>Andrea Giancola</td><td></td><td></td><td>Garry Kasparov</td><td>1-0</td><td>22</td></tr>
+						<tr><td>2</td><td>Magnus Carlsen</td><td></td><td></td><td>Andrea Giancola</td><td>0-1</td><td>34</td></tr>
+						<tr><td>3</td><td>Judit Polgar</td><td></td><td></td><td>Andrea Giancola</td><td>½-½</td><td>28</td></tr>
+					</tbody>
 				</table>
-			<!--/div-->
+			</div>
 		</div>
 
 		<div class="row">
 			
-			<div class="col-md-6">
-				<div>
-					<div id="myboard-container"></div>
+			<!--div class="col-md-5" id="myboard-container"></div>
+			<div class="col-md-3">
+				<div>White: Andrea Giancola (1757)</div>
+				<div>Black: Garry Kasparov (2823)</div>
+				<div>27/11/2015</div>
+				<div>1 - 0</div>
+				<div>Sicilian Defense</div>
+			</div-->
+			<div class="col-md-11">
+				<div class="game-metadata">
+					<div>Andrea Giancola (1757) - Garry Kasparov (2823) <span class="result">1-0</span></div>
+					<div class="opening">Sicilian Defense, Grand Prix Attack</div>
+					<div>Crespi 2015, Open B - 27/11/2015</div>
 				</div>
 			</div>
-			
-			<div class="col-md-6">
+		</div>
+
+		<div class="row">
+			<div class="col-md-5">
+				<div id="myboard-container"></div>
+			</div>
+
+			<div class="col-md-7">
 				<div id="myboard-moves" /></div>
 			</div>
 		</div>
