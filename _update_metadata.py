@@ -72,7 +72,7 @@ def parse_pgn(pgn_file):
 					state = PARSE_MOVES
 
 				#ignore movetext, we only need metadata
-
+				curr_game["movetext"] = line
 
 			elif line == '':
 				if state == PARSE_START:

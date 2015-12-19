@@ -1,12 +1,14 @@
 # TODO
 
-- caricamento dinamico PGN
+- riconoscimento "threats" (null moves) in PGNViewer
+- recupero numero di mosse come metadato
+- caricamento partita di default
 
-- troubleshooting errore caricamento PGN in PGNViewer
 
 - reskin bottoni navigazione partita
 - testare su mobile
 - palette improvements
+- favicon
 
 - transcoding Annotation Glyphs client-side
 https://en.wikipedia.org/wiki/Numeric_Annotation_Glyphs
