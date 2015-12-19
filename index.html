@@ -32,7 +32,8 @@
     	});
 	</script>
 
-	<link type="text/css"  rel="stylesheet"  href="mystyle.css"></link>
+	<link type="text/css"  rel="stylesheet" href="mystyle.css"></link>
+	<script type="text/javascript" src="myscripts.js"></script>
 </head>
 
 <body>
@@ -59,15 +60,15 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="btn-group">
-					<button type="button" class="btn btn-default">Choose an Event</button>
+					<button type="button" class="btn btn-default">Choose a File</button>
 					<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						<span class="caret"></span> <span class="sr-only">Toggle Dropdown</span>
 					</button>
 
-					<ul class="dropdown-menu">
-						<li><a href="#">Event 1</a></li>
-						<li><a href="#">Event 2</a></li>
-						<li><a href="#">Event 3</a></li>
+					<ul id="pgnFileChooser" class="dropdown-menu">
+						<li><a href="#">File 1</a></li>
+						<li><a href="#">File 2</a></li>
+						<li><a href="#">File 3</a></li>
 					</ul>
 				</div>
 			</div>

@@ -2,6 +2,8 @@
 
 - caricamento dinamico PGN
 
+- troubleshooting errore caricamento PGN in PGNViewer
+
 - reskin bottoni navigazione partita
 - testare su mobile
 - palette improvements
