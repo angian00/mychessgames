@@ -28,6 +28,7 @@ $(document).ready(function() {
 				for (var i = 0; i < gamesMetadata.length; i++) {
 					var g = gamesMetadata[i];
 					$("#gamesTable tbody").append("<tr>" 
+						+ "<td>" + g.Date + "</td>"
 						+ "<td>" + g.Round + "</td>"
 						+ "<td>" + g.White + "</td>"
 						+ "<td>" + g.WhiteElo + "</td>"
@@ -46,7 +47,9 @@ $(document).ready(function() {
 					$("#gameMetadata .players").text(g.White + "(" + g.WhiteElo + ") - " + g.Black + "(" + g.BlackElo + ")");
 					$("#gameMetadata .result").text(g.Result);
 					$("#gameMetadata .opening").text(g.ECO);
-					$("#gameMetadata .site_and_date").text(g.Event + ", " + g.Site + ", " + g.Date);
+					$("#gameMetadata .site_and_date").text(g.Event 
+						+ (g.Site != null &&  g.Site != "" ? ", " + g.Site : "")
+						+ ", " + g.Date);
 
 					//update chessboard
 					var pgnStr = g.movetext;

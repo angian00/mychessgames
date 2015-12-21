@@ -50,6 +50,7 @@
 
  #gamesTable th,td {
  	text-align: center;
+    cursor: pointer;
  }
 
 
