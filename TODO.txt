@@ -1,14 +1,10 @@
 # TODO
 
-- riconoscimento "threats" (null moves) in PGNViewer
-- recupero numero di mosse come metadato
-- caricamento partita di default
+- eliminazione (manuale) null moves da miei PGN
+- aggiunta tutti PGN a git
 
 
-- reskin bottoni navigazione partita
-- testare su mobile
 - palette improvements
-- favicon
 
 - transcoding Annotation Glyphs client-side
 https://en.wikipedia.org/wiki/Numeric_Annotation_Glyphs
