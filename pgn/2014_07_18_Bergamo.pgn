@@ -1,0 +1,84 @@
+[Event "Open Bergamo 2014 (Challenge)"]
+[Site "Bergamo"]
+[Date "2014.07.18"]
+[Round "1"]
+[White "Andrea Giancola"]
+[Black "Staffan Thomasson"]
+[Result "1/2-1/2"]
+[BlackElo "1882"]
+[ECO "B01"]
+[EventDate "2014.07.18"]
+[WhiteElo "1746"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Be2 c6 6. Be3 Bf5 7. Qd2 Nbd7 8. Bf3 $6 ( 8. Nf3 e6 9. Nh4 ) 8... Nb6 ( 8... e5 9. dxe5 Qxd2+ 10. Bxd2 Nxe5 ) 9. b3 e6 10. Nge2 Be7 11. Ng3 Bg6 12. Nce2 Nbd5 13. Nf4 Nxe3 14. fxe3 Nd5 15. Nxd5 exd5 16. O-O Bg5 17. Qf2 O-O 18. Rae1 Rad8 19. Bh5 Bh4 20. Bxg6 fxg6 21. Qe2 Bxg3 22. hxg3 Qxg3 23. Rxf8+ Rxf8 24. Rf1 Rxf1+ 25. Kxf1 Qh4 26. c4 Qf6+ 27. Ke1 h5 28. cxd5 cxd5 29. Qb5 Qc6 30. Qd3 a6 31. a4 Kh7 32. Kf2 Kh6 33. Qd2 g5 34. e4 Qf6+ ( 34... dxe4 35. d5 Qc5+ 36. Kf1 e3 37. Qe2 Qc3 38. d6 Qxb3 39. d7 Qb1+ 40. Qe1 Qd3+ 41. Kg1 Qxd7 $19 ) 35. Ke2 Qe6 36. e5 Qg4+ 37. Kf2 Qe4 ( 37... Qf4+ 38. Qxf4 gxf4 39. Kf3 g5 40. g3 fxg3 41. Kxg3 a5 42. Kf2 h4 43. Kf3 Kh5 44. Kg2 g4 45. Kh2 g3+ 46. Kg2 Kg4 47. e6 h3+ 48. Kg1 Kf3 49. e7 h2+ 50. Kh1 Kf2 51. e8=Q g2+ 52. Kxh2 g1=Q+ 53. Kh3 Qg3# ) 38. Qe3 Qf5+ 39. Ke2 Qg4+ 40. Kd3 Qe6 41. Ke2 h4 42. Kf2 Kh5 43. Kg1 g4 44. Kh2 Kg6 45. Qf4 g3+ 46. Kg1 Qc6 $10 ( 46... Qf5 47. Qxf5+ Kxf5 48. Kh1 a5 49. Kg1 g5 50. Kh1 g4 51. Kg1 h3 52. Kh1 h2 53. e6 Kxe6 54. b4 axb4 55. a5 b3 56. a6 b2 57. a7 b1=R# ) 47. Kf1 Qe6 48. Kg1 Qe7 49. Kf1 Kh7 50. Ke2 Kg8 51. Kf3 g5 ( 51... Qf7 52. b4 g5 53. Qxf7+ Kxf7 54. Kg4 Ke6 55. Kf3 Kf7 56. Kg4 Kg6 57. b5 axb5 58. axb5 Kf7 59. Kf3 Ke7 60. Kg4 Ke6 61. b6 Kd7 62. Kf3 Kc6 $19 ) 52. Qe3 Qf7+ 53. Ke2 Qf5 54. Ke1 Kf7 55. Qf3 Ke6 56. Qxf5+ Kxf5 57. Kf1 a5  1/2-1/2
+
+[Event "Open Bergamo 2014 (Challenge)"]
+[Site "Bergamo"]
+[Date "2014.07.18"]
+[Round "2"]
+[White "Stefano Ganci"]
+[Black "Andrea Giancola"]
+[Result "1-0"]
+[BlackElo "1746"]
+[ECO "A00"]
+[EventDate "2014.07.18"]
+[WhiteElo "1930"]
+
+1. b4 d5 2. Bb2 Bf5 3. e3 Nd7 4. c4 c6 5. Nf3 Ngf6 6. Nc3 e6 7. c5 Be7 8. Be2 O-O 9. Nh4 Ne4 10. Nxf5 exf5 11. d3 Nxc3 12. Bxc3 Bf6 13. Bxf6 Nxf6 14. d4 Re8 15. g3 Ne4 16. Qc2 Qg5 17. Qd3 a5 18. b5 cxb5 19. Qxb5 Nxf2 $6 ( 19... Qh6 20. Qd3 f4 21. gxf4 ( 21. exf4 Qh3 22. Qf3 Re7 ) 21... Qh4 $13 ) 20. Kxf2 Qxe3+ 21. Kf1 Qxd4 22. Rd1 Qe4 23. Rg1 d4 24. Rg2 f4 ( 24... Re5 25. Rg1 Rae8 26. Rg2 Rc8 27. Qd7 Rcxc5 28. Qd8+ Re8 29. Qxd4 ) 25. Qd3 Qxd3 26. Bxd3 fxg3 27. hxg3 Rac8 28. Rc2 h6 29. Re1 Kf8 30. Rxe8+ Kxe8 31. Ke2 Kd8 $2 32. Be4 Kc7 33. Kd3 g6 34. Kxd4 f5 35. Bd5 Rd8 36. Rb2 Rb8 37. Rb6  1-0
+
+[Event "Open Bergamo 2014 (Challenge)"]
+[Site "Bergamo"]
+[Date "2014.07.19"]
+[Round "3"]
+[White "Andrea Giancola"]
+[Black "Mitchell Wallace"]
+[Result "0-1"]
+[BlackElo "1858"]
+[ECO "B07"]
+[EventDate "2014.07.18"]
+[WhiteElo "1743"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Bd3 $6 ( 4. Nf3 ) 4... e5 5. d5 c6 6. dxc6 $6 ( 6. Nf3 cxd5 7. exd5 Be7 ) 6... bxc6 7. Bg5 Rb8 8. Bc4 Qa5 ( 8... Rxb2 9. Bb3 d5 10. exd5 cxd5 11. Na4 Rxb3 12. axb3 $10 ) 9. Bd2 Qc7 10. Bb3 Be7 ( 10... Nc5 11. f3 d5 12. exd5 Nxb3 13. axb3 cxd5 $17 ) 11. Nge2 Nc5 12. f3 Ba6 13. Be3 Ne6 14. O-O h6 15. Qe1 g5 16. Rf2 Nf4 17. Nxf4 gxf4 18. Bd2 Nh5 19. g3 $2 ( 19. Nd1 Bh4 20. Bb4 Bxf2+ 21. Nxf2 c5 22. Ba5 Qe7 $17 ) 19... fxg3 20. hxg3 Nxg3 21. Rg2 Nf1 22. Ne2 Nxd2 23. Qxd2 Bg5 24. Qc3 ( 24. f4 exf4 25. Nxf4 Qe7 ( 25... d5 26. Qc3 d4 27. Qxd4 $15 ) 26. Qe3 ) 24... Bxe2 25. Rxe2 Bf4 26. Rg2 Kf8 27. Kh1 Qd7 28. Qc4 $2 ( 28. Kg1 h5 29. Kf2 h4 30. Rg4 Rh6 31. Rag1 $17 ) 28... Qh3+ 29. Kg1 Be3+ 30. Kf1 Qxf3+ 31. Ke1 Rxb3 32. Re2 Qh1#  0-1
+
+[Event "Open Bergamo 2014 (Challenge)"]
+[Site "Bergamo"]
+[Date "2014.07.19"]
+[Round "4"]
+[White "Emilio De Paoli"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1746"]
+[ECO "A53"]
+[EventDate "2014.07.18"]
+[WhiteElo "1763"]
+
+1. c4 d6 2. d4 Bf5 3. Nc3 Nf6 4. f3 Nbd7 5. e4 Bg6 6. Nge2 e5 7. Be3 Be7 8. d5 O-O 9. h4 Nh5 10. g3 f5 11. Bh3 $6 ( 11. exf5 Bxf5 12. Bg2 ) 11... fxe4 12. Be6+ Kh8 13. fxe4 Rf3 14. Kd2 Nhf6 15. Rf1 Nxe4+ $6 ( 15... Bxe4 16. Nxe4 $2 Nxe4+ 17. Kd3 Ndc5+ 18. Kc2 Rxe3 ) 16. Nxe4 Bxe4 17. Nc3 Rxf1 18. Qxf1 Bg6 19. Qh3 Nf6 20. g4 Ne4+ 21. Nxe4 Bxe4 22. g5 c6 23. b4 cxd5 24. cxd5 a5 25. Qg4 Bg6 26. h5 Be8 27. g6 axb4 28. h6 Bxg6 29. Bf5 Qe8 30. a3 Bf6 ( 30... gxh6 31. Bxh6 $19 ) 31. Rg1 Bxf5 32. hxg7+ Kg8 33. Qxf5 Qf7 34. Qe6 Qxe6 35. dxe6 bxa3 36. Bg5 Bxg5+ 37. Rxg5 a2 38. Rg1 a1=Q 39. Rxa1 Rxa1 40. e7 Ra8  0-1
+
+[Event "Open Bergamo 2014 (Challenge)"]
+[Site "Bergamo"]
+[Date "2014.07.20"]
+[Round "5"]
+[White "Andrea Giancola"]
+[Black "U. N. Tomat"]
+[Result "1-0"]
+[BlackElo "1655"]
+[ECO "C28"]
+[EventDate "2014.07.18"]
+[WhiteElo "1746"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. f4 d6 5. Nf3 Bg4 6. O-O Nd4 7. fxe5 Bxf3 8. gxf3 dxe5 9. d3 Qd7 10. Kh1 Bc5 11. f4 exf4 12. Bxf4 O-O 13. Nd5 Nxd5 14. Bxd5 c6 15. Bb3 Nxb3 16. axb3 $15 Bb6 17. Qh5 f5 18. Ra4 Rae8 19. e5 Bd4 20. Qf3 a6 ( 20... Bxb2 21. Rxa7 Bxe5 22. Bxe5 Rxe5 $17 ) 21. Re1 Re6 $2 22. c3 $10 Ba7 23. d4 Qd8 24. Raa1 Rg6 25. Rad1 Qb6 $6 26. c4 Rd8 $2 27. e6 Re8 28. d5 cxd5 29. Be3 Qxe6 30. Bf2 $4 ( 30. cxd5 Qe5 31. d6 Rxd6 ( 31... Bxe3 32. Rxe3 Qxe3 33. Qxe3 Rxe3 34. d7 $18 ) 32. Bxa7 Qxe1+ 33. Rxe1 Rxe1+ 34. Kg2 $16 ) 30... Qc8 $4 ( 30... Qxe1+ 31. Rxe1 Rxe1+ 32. Bxe1 Rg1# ) 31. Rxe8+ Qxe8 32. Qxd5+ Kh8 33. Qd8 Re6 34. Bxa7 Kg8 35. Kg2 Kf7 36. Qxe8+ Kxe8 37. Kf2 Rh6 38. Kg3 Re6 39. Bd4 g6 40. b4 Re4 41. c5 Kd7 42. Bc3+ Ke8 43. Rd6 Re7 44. c6 Re3+ 45. Kf2 Re7 46. cxb7 ( 46. Bf6 Rc7 47. Rd8+ Kf7 48. Rd7+ $18 ) 46... Rxb7 47. Rxa6 Kd7 48. Ke3 Ke7 49. Rc6 Kd7 50. Rc5 Rb8 51. b5 Rb6 52. Rd5+ Ke6 53. Kd4 h5 54. Kc5 Rxb5+ 55. Kxb5 Kxd5 56. Bd2 h4 ( 56... Ke4 57. Kc5 f4 58. Bxf4 Kxf4 59. b4 g5 60. b5 g4 61. b6 g3 62. hxg3+ Kxg3 63. b7 h4 $18 ) 57. b4 h3 58. Ka6 Kc6 59. b5+ Kc7 60. Ka7  1-0
+
+[Event "Open Bergamo 2014 (Challenge)"]
+[Site "Bergamo"]
+[Date "2014.07.20"]
+[Round "6"]
+[White "Angel Olmo Fernandez"]
+[Black "Andrea Giancola"]
+[Result "1/2-1/2"]
+[BlackElo "1746"]
+[ECO "A32"]
+[EventDate "2014.07.18"]
+[WhiteElo "1811"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 e6 6. Nb5 Bb4+ 7. Bd2 Bxd2+ 8. Qxd2 d5 9. Bg2 a6 10. Nd4 O-O 11. O-O e5 12. Nxc6 bxc6 13. e3 Bb7 14. Rd1 dxc4 $6 ( 14... Rb8 15. Nc3 Qd6 16. cxd5 cxd5 17. Nxd5 Bxd5 18. Bxd5 Nxd5 19. Qxd5 Qxd5 20. Rxd5 Rxb2 21. Rxe5 Rc8 $16 ) 15. Qc2 Qb6 16. Na3 c5 $6 17. Nxc4 Qc7 18. Bxb7 Qxb7 19. Nxe5 Qc7 20. Nc4 a5 21. Rac1 a4 22. Na3 Nd7 23. Nc4 Rfb8 24. Rd3 h6 25. Rcd1 Ne5 26. Nxe5 Qxe5 27. R1d2 Rc8 28. Rd5 Qe7 29. R2d3 c4 30. Rc3 a3 31. b3 Qe6 32. Rb5 $6 ( 32. Rxc4 Qxd5 33. Rxc8+ $18 ) 32... cxb3 33. Rbxb3 Rxc3 34. Rxc3 Qd6 35. Rc8+ Rxc8 36. Qxc8+ Kh7 37. Qf5+ Kg8 38. Qf3 g6 39. Qe4 $14 { Troublesome to win anyway}   1/2-1/2
+

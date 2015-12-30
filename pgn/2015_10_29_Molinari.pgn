@@ -1,0 +1,78 @@
+[Event "Open "Molinari" 2015"]
+[Site "?"]
+[Date "2015.10.29"]
+[Round "1"]
+[White "Giacomo Berendino"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1765"]
+[ECO "A45"]
+[WhiteElo "1618"]
+
+1. d4 Nf6 2. Bg5 g6 3. f3 Bg7 4. Qd2 O-O ( 4... c5 5. dxc5 Ne4 6. fxe4 Bxb2 $17 ) 5. Bh6 d5 6. Nc3 Re8 7. Bxg7 Kxg7 8. O-O-O a5 9. e4 a4 $6 ( 9... dxe4 10. fxe4 e5 ) 10. Bb5 ( 10. e5 Nfd7 11. h4 Nb6 12. h5 $16 ) 10... c6 11. Bxa4 b5 12. Bb3 b4 13. Na4 dxe4 14. Qxb4 Na6 15. Qc3 Qd6 16. Ne2 ( 16. fxe4 Nxe4 $16 ) 16... exf3 17. gxf3 Be6 18. Bxe6 Qxe6 $15 19. Nb6 $2 Rab8 20. Qa5 Qxe2 $19 21. a4 Qe3+ 22. Kb1 Nc7 23. Nc4 Qxf3 24. Qxc7 Nd5 25. Qe5+ f6 26. Qe1 Nc3+ 27. Ka1 Nxd1 28. Qxd1 Qxd1+ 29. Rxd1 Rb4 30. b3 Ra8 31. Ka2 f5 32. d5 c5 33. Re1 Kf6 34. Re6+ Kf7 35. Rc6 f4 36. Rxc5 Kf6 37. c3 Rbb8 38. Rc6+ Kf5 39. Re6 Re8 40. Re1 Kg4 41. Ne5+ Kh3 42. Re2 g5 43. Nf3 g4 44. Ng5+ Kh4 45. Nxh7 f3 46. Re6 Kh3 47. Ng5+ Kxh2 48. Rh6+ Kg2 49. Re6 f2 50. Re2 Kg1 51. Rxf2 Kxf2 52. c4 Ke3 53. Ka3 Kd4 54. Ne6+ Kc3 55. Nf4 Reb8 56. Ne2+ Kd3 57. Nf4+ Kc2 58. b4 Kc3 59. d6 exd6 60. a5 Kxc4  0-1
+
+[Event "Open "Molinari" 2015"]
+[Site "?"]
+[Date "2015.10.30"]
+[Round "2"]
+[White "Andrea Giancola"]
+[Black "Giangiuseppe Pili"]
+[Result "1-0"]
+[BlackElo "1679"]
+[ECO "B12"]
+[WhiteElo "1765"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c4 dxc4 6. Bxc4 Bb4+ 7. Nc3 Ne7 8. O-O Nd7 9. Nh4 Nb6 10. Bb3 h6 11. Nxf5 Nxf5 12. Be3 O-O 13. Bc2 Nxe3 14. fxe3 g6 15. Ne4 Kg7 $6 16. Nf6 ( 16. Rf3 Nd5 17. Qf1 Qa5 $16 ) 16... Nc4 $6 17. Qe2 b5 18. b3 Nb6 19. h4 Nd5 20. h5 Be7 21. hxg6 fxg6 22. Qg4 g5 23. Qe4 Nxf6 24. Qg6+  1-0
+
+[Event "Open "Molinari" 2015"]
+[Site "?"]
+[Date "2015.10.31"]
+[Round "3"]
+[White "Elias Antonio Ramirez Rivera"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1765"]
+[ECO "B10"]
+[WhiteElo "1704"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. g3 Ne7 6. Bg2 O-O 7. O-O f5 8. c4 fxe4 9. dxe4 d4 10. c5 Bc7 11. Qb3+ Kh8 12. Ng5 Qe8 13. Ne6 Bxe6 14. Qxe6 Rf6 15. Qb3 b5 16. Nf3 Nd7 17. Qc2 h6 18. b4 a5 19. Bd2 g5 20. a3 Ng6 21. h3 a4 22. Nh2 Rf7 23. Ng4 Kh7 24. Rae1 h5 $2 25. Nh2 Qe7 26. Nf3 Nf4 27. gxf4 gxf4 28. h4 Kh8 29. Bh3 Nf6 30. Kh1 Ng4 31. Qa2 Rg7 32. Qc2 $6 ( 32. Bxg4 hxg4 33. Ng5 $16 ) 32... Rag8 33. Qd3 Bd8 34. Bxf4 exf4 35. e5 Qe6 36. Nxd4 Qd5+ 37. Bg2 $4 ( 37. Qe4 Nxf2+ 38. Rxf2 Rg1+ 39. Kh2 Rxe1 40. Qxe1 Qxd4 $10 ) 37... Nxf2+ 38. Rxf2 Rxg2 39. Rf3 R2g3 40. Qf5 Qxd4 41. Qxh5+ Kg7 42. Rxg3+ fxg3 43. e6 Qxh4+ 44. Qxh4 Bxh4 45. Re4 Be7 46. Kg2 Kf6 47. Re3 Rg7 48. Re2 Kf5 49. Re1 Bg5 50. Re2 Re7 51. Kxg3 Rxe6 52. Rf2+ Ke5 53. Kg4 Bc1 54. Rf5+ Kd4 55. Rf3 Re4+ 56. Kf5 Re5+ 57. Kf6 Re3 58. Rf4+ Kc3 59. Rf1 Bxa3 60. Rd1 Bxb4  0-1
+
+[Event "Open "Molinari" 2015"]
+[Site "?"]
+[Date "2015.11.01"]
+[Round "4"]
+[White "Andrea Giancola"]
+[Black "Daniele Colica"]
+[Result "0-1"]
+[BlackElo "1622"]
+[ECO "B01"]
+[WhiteElo "1765"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. c4 c6 8. dxc6 Nxc6 9. Ne2 e6 10. O-O Be7 11. Nbc3 O-O 12. Be3 Rad8 13. Qe1 Nb4 14. Qd2 Rfe8 15. a3 Nc6 16. b4 b6 17. Rad1 Qc8 18. Qc2 Rd7 $16 19. Ne4 Red8 20. b5 $6 Na5 21. c5 ( 21. Nxf6+ gxf6 22. c5 bxc5 23. Rc1 c4 24. Qa4 Qc7 25. Bd2 Nb3 26. Rxc4 Qxc4 27. Qxc4 Nxd2 $10 ) 21... Nxe4 22. fxe4 bxc5 23. dxc5 Rxd1 24. Rxd1 Rxd1+ 25. Qxd1 Bxc5 $15 26. Qc1 $2 Bxe3+ $2 ( 26... Nc4 27. Bxc5 Qxc5+ 28. Kh1 Qxb5 $17 ) 27. Qxe3 Qc7 28. Qc3 Qxc3 29. Nxc3 Kf8 30. Kf2 Ke7 31. Ke2 Kd6 ( 31... Nc4 32. a4 Kd6 33. Kd3 Kc5 $17 ) 32. Kd3 Kc5 33. g4 Nc4 ( 33... Nb3 34. h3 e5 35. h4 h6 36. h5 f6 $22 ) 34. a4 $4 ( 34. Na4+ Kxb5 35. Nc3+ Kc5 36. Na4+ Kb5 $10 ) 34... Ne5+ 35. Kc2 Nxg4 36. Kb3 Nxh2 37. a5 Nf3 38. b6 Nd4+ 39. Ka4 axb6 40. a6 Nc6 41. Nb5 h5 42. a7 Nxa7 43. Nxa7 h4 44. Nb5 g5  0-1
+
+[Event "Open "Molinari" 2015"]
+[Site "?"]
+[Date "2015.11.01"]
+[Round "5"]
+[White "Maksim Nikonov"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1765"]
+[ECO "B15"]
+[WhiteElo "1563"]
+
+1. e4 c6 2. d4 d5 3. Nc3 e6 $6 ( 3... dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 ) 4. Nf3 Bb4 5. Bd3 Ne7 6. O-O O-O 7. exd5 ( 7. e5 Ng6 $16 ) 7... exd5 8. Re1 h6 9. a3 Bd6 10. Ne5 Bf5 11. Bxf5 Nxf5 12. Qg4 $6 Qf6 $10 13. Bf4 $2 h5 $2 ( 13... Nxd4 $17 ) 14. Qxh5 Nxd4 15. Bg5 $2 $19 Qf5 16. g4 Qxc2 17. Re3 Bxe5 18. Rh3 ( 18. Rxe5 Nf3+ ) 18... f6 19. Rc1 Ne2+ 20. Nxe2 Qxe2 21. Qh7+ Kf7 22. Qh5+ Ke7 23. Re3 Qxb2 $7 24. Rce1 Kd6 25. Rxe5 fxg5 ( 25... fxe5 26. Qg6+ Kc7 ( 26... Kd7 $4 27. Qxg7+ Kc8 28. Qxf8+ Kd7 29. Qe7+ Kc8 30. Qd8# ) 27. Qxg7+ Nd7 $19 ) 26. Qxg5 Qxf2+ 27. Kh1 Nd7 28. Qe7+ Kc7 29. Re6 Qf3+ 30. Kg1 Qxg4+ 31. Kh1 Qf4 32. R6e5 Rf7 33. Qg5 Qxg5 34. Rxg5 Raf8 35. Reg1 d4 36. Rxg7 Rxg7 37. Rxg7 d3 38. Rg2 Rf1+  0-1
+
+[Event "Open "Molinari" 2015"]
+[Site "?"]
+[Date "2015.11.02"]
+[Round "?"]
+[White "Andrea Giancola"]
+[Black "Giancarlo Aloe"]
+[Result "1-0"]
+[BlackElo "1744"]
+[ECO "B01"]
+[WhiteElo "1765"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 ( 4. Be2 Qg5 5. Bf3 ) 4... c6 5. d4 Qc7 6. Ng3 Nf6 7. Bd3 Bg4 8. f3 Bh5 9. Nxh5 Nxh5 10. O-O e6 11. f4 Nf6 $16 12. Qf3 $6 ( 12. f5 Be7 ( 12... Nbd7 13. fxe6 fxe6 14. Qe1 ) 13. fxe6 fxe6 14. Re1 ) 12... Bd6 13. Qh3 Nbd7 14. a4 O-O ( 14... a5 15. Be3 O-O-O ) 15. g4 g6 16. Qh4 Rfe8 17. g5 Nh5 18. Ne4 Be7 19. Be2 Ng7 20. Bg4 Nf5 21. Bxf5 exf5 $15 22. Nf6+ $2 Bxf6 23. gxf6 Qd6 24. Qf2 Nxf6 25. c3 Re4 26. b3 Rae8 27. Ba3 Qd5 28. Rae1 $19 Ng4 ( 28... Qxb3 ) 29. Qg3 Qe6 30. Rxe4 Qxe4 31. h3 Nf6 32. Qf3 Qe3+ 33. Kg2 Qe2+ 34. Rf2 Qxf3+ 35. Rxf3 Re2+ 36. Kf1 Rc2 37. Ke1 Ne4 38. Bb4 f6 39. c4 Kf7 40. a5 Ke6 41. Ba3 $19 Rc3 $6 42. Rxc3 Nxc3 43. Kf2 Ne4+ 44. Ke3 g5 45. b4 h5 46. b5 g4 $2 ( 46... cxb5 47. d5+ Kd7 48. cxb5 Nc3 ) 47. a6 $5 $10 Kd7 ( 47... bxa6 48. bxc6 g3 49. d5+ Kf7 50. Kf3 Ke8 51. d6 a5 52. d7+ Kd8 53. Bb2 Kc7 54. Bd4 $18 ) ( 47... Nd6 48. axb7 Nxb7 49. bxc6 Na5 50. d5+ Kf7 $16 ) ( 47... g3 48. Kf3 Nd2+ 49. Kxg3 bxa6 50. bxa6 Nxc4 $16 ) 48. Bc5 $2 ( 48. b6 $1 g3 49. Kf3 axb6 ( 49... bxa6 50. bxa7 ) 50. a7 $18 ) 48... b6 49. Bxb6 gxh3 50. Kf3 cxb5 51. cxb5 ( 51. Bxa7 bxc4 52. d5 c3 53. Be3 h2 54. Kg2 Ng3 55. Kxh2 Nf1+ $19 ) 51... Nd6 52. Bxa7 Nxb5 53. Bc5 Kc8 $6 ( 53... Kc6 $10 ) 54. Kg3 $2 ( 54. d5 h4 55. a7 Kb7 56. d6 Nxd6 57. Bxd6 Kxa7 $18 ) 54... Nc7 55. a7 Kb7 56. Kxh3 Kc6 $2 ( 56... Nd5 57. Kg3 Ka8 58. Kh4 Nxf4 59. Bd6 Ne2 60. Kxh5 Nxd4 $10 ) 57. Kh4 Kd5 58. Kxh5 Ke4 59. Kg6 Na8 ( 59... Kxf4 60. Bd6+ ) 60. Kxf6 Nc7 61. Bd6 Na8 62. Be5 Nb6 63. Ke6 Na8 64. d5 Nb6 65. d6  1-0
+

@@ -1,0 +1,70 @@
+[Event "Degli Scudi 2014"]
+[Site "Vimercate"]
+[Date "2014.07.13"]
+[Round "4"]
+[White "Andrea Giancola"]
+[Black "Riccardo Cavalieri"]
+[Result "1-0"]
+[BlackElo "1616"]
+[ECO "B23"]
+[EventDate "2014.07.11"]
+[WhiteElo "1746"]
+
+1. e4 c5 2. Nc3 d6 3. f4 e6 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Nf3 g6 7. O-O Bg7 8. f5 exf5 9. exf5 Ne7 10. fxg6 hxg6 11. Qe1 O-O 12. Ng5 Bh6 13. Nce4 Nf5 14. g4 Bxg5 15. gxf5 Be7 ( 15... Re8 16. fxg6 fxg6 17. d3 Bxc1 18. Rxc1 $14 ) 16. Qg3 Kg7 17. b3 Nf6 ( 17... Bf6 18. Nxf6 Qxf6 19. Rb1 Rh8 $14 ) 18. Bb2 d5 19. Ng5 Bd6 $2 ( 19... d4 20. fxg6 Nh5 21. Qe5+ Bf6 22. Ne6+ fxe6 23. Qxh5 Rh8 24. Qxc5 $10 ) 20. Ne6+ $1 fxe6 21. Qxg6+ Kh8 22. Rf3 Bxh2+ 23. Kh1  1-0
+
+[Event "Degli Scudi 2014"]
+[Site "Vimercate"]
+[Date "2014.07.13"]
+[Round "5"]
+[White "Christian Alaimo"]
+[Black "Andrea Giancola"]
+[Result "1-0"]
+[BlackElo "1746"]
+[ECO "B11"]
+[EventDate "2014.07.11"]
+[WhiteElo "1775"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. d4 dxe4 6. Nxe4 e6 ( 6... Bxf3 7. gxf3 $15 ) 7. c3 Nd7 8. Bd3 Ngf6 9. Bg5 Be7 10. O-O Nxe4 11. Bxe7 Qxe7 ( 11... Nxf2 12. Bxd8 Nxd1 $17 ) 12. Bxe4 O-O 13. Re1 Nf6 14. Bc2 Qc7 15. Qd3 Bg6 16. Qd2 Bxc2 17. Qxc2 Rfd8 18. Re5 Rd5 19. Rae1 Rad8 20. c4 Rxe5 21. dxe5 Nd7 22. Rd1 Nf8 23. c5 Rxd1+ ( 23... Rd5 $15 ) 24. Qxd1 Qd7 25. Qd6 f6 ( 25... Qxd6 26. exd6 Nd7 27. b4 ) 26. Nd4 fxe5 27. Qxd7 Nxd7 28. Nxe6 a5 29. a3 a4 $10 30. Kf1 b6 $16 ( 30... Kf7 31. Nd8+ Ke7 32. Nxb7 Ke6 33. f3 Kd5 34. Ke2 e4 35. fxe4+ Kxe4 $10 ) 31. cxb6 Nxb6 32. Nc5 Kf7 33. Ke2 Ke7 34. Kd3 Kd6 35. Ne4+ Kd5 36. Nc3+ Kd6 37. g3 h6 38. h4 g6 39. g4 h5 $2 ( 39... Ke6 $16 ) 40. gxh5 gxh5 41. Ne4+ Ke6 42. Ng3 Nd5 43. Nxh5 Kf5 44. Ng3+ Kg4 45. Ke4 Kxh4 46. Kxe5 Nb6 47. Kd4 Nd7 48. Nf5+ Kg4 49. Ne7 c5+ 50. Ke4 Nf6+ 51. Ke5 Kg5 52. f4+  1-0
+
+[Event "Degli Scudi 2014"]
+[Site "Vimercate"]
+[Date "2014.07.11"]
+[Round "1"]
+[White "Loris Lamperti"]
+[Black "Andrea Giancola"]
+[Result "1/2-1/2"]
+[BlackElo "1746"]
+[ECO "D10"]
+[EventDate "2014.07.11"]
+[WhiteElo "1599"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Bf5 $6 4. cxd5 cxd5 5. Qb3 e6 $6 ( 5... Nc6 6. Nf3 Qd7 7. e4 dxe4 8. Ne5 Nxe5 9. dxe5 $14 ) 6. Qxb7 Nd7 7. Nf3 Ngf6 8. e3 Be7 9. Be2 O-O 10. O-O Qa5 11. Qa6 Qc7 12. Nh4 Ng4 13. Nf3 Be4 14. g3 Ndf6 15. Nh4 Nh6 16. f3 $16 Nh5 $2 17. fxe4 Nxg3 18. hxg3 Bxh4 19. e5 Bxg3 $18 20. Bd2 Qe7 21. Bf3 Qh4 22. Qe2 f6 23. Be1 $2 ( 23. Nxd5 Rab8 24. Nf4 ) 23... fxe5 24. Bxg3 Qxg3+ 25. Qg2 Qxg2+ 26. Bxg2 Nf5 27. Nxd5 exd4 28. exd4 $6 ( 28. Nc7 Rab8 29. Nxe6 $18 ) 28... Rab8 29. Nc7 Nxd4 30. Rxf8+ Kxf8 31. b3 Ke7 32. Rd1 e5 33. Nd5+ Ke6 34. Ne3 Rf8 35. Nc4 Ne2+ 36. Kh2 Rf2 $6 37. Rf1 ( 37. Rd6+ Ke7 38. Rd2 $18 ) 37... Rxf1 38. Bxf1 $14 Nf4 39. Kg3 h5 40. Ne3 g5 41. Bc4+ Kf6 42. b4 e4 43. b5 Ke5 44. a4 $10 Kd6 $6 ( 44... Kd4 45. a5 Kxe3 46. b6 axb6 47. axb6 h4+ 48. Kg4 Nd3 49. b7 Ne5+ 50. Kxg5 Nd7 ) 45. Bb3 Ne2+ 46. Kf2 Nd4 47. Bf7 h4 48. Bg6 Ke5 49. Be8 Kd6 50. Nc4+ Kc5 51. Nd2 e3+ 52. Kxe3 h3 53. Nf3 Nf5+ 54. Kf2 g4 55. Ne1 $6 ( 55. Nd2 g3+ 56. Kg1 Nd4 57. Ne4+ $16 ) 55... g3+ 56. Kg1 Nd4 57. Nd3+ ( 57. Bh5 Kb4 58. Bd1 $14 ) 57... Kb6 58. Nf4 ( 58. Bh5 Ka5 59. Bd1 ) 58... Nf3+ $10 59. Kh1 g2+ 60. Nxg2 hxg2+ 61. Kxg2 Nd4 62. Kf2 Nb3 63. Bh5 Nc5 64. Bd1 Ka5  1/2-1/2
+
+[Event "Degli Scudi 2014"]
+[Site "Vimercate"]
+[Date "2014.07.12"]
+[Round "2"]
+[White "Andrea Giancola"]
+[Black "Pirrello"]
+[Result "1/2-1/2"]
+[BlackElo "1669"]
+[ECO "B12"]
+[EventDate "2014.07.11"]
+[WhiteElo "1746"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bd7 5. f3 e6 6. h4 c5 $17 7. c3 Nc6 8. Ne2 Qb6 9. f4 cxd4 10. cxd4 Rc8 11. Nbc3 g6 $6 $10 ( 11... h5 12. g5 Nge7 $17 ) 12. Be3 h5 ( 12... Qxb2 13. Rb1 Qa3 14. Rxb7 ) 13. g5 a6 14. Rb1 Na7 15. Bg2 Nb5 16. Kf2 Ne7 17. Nxb5 Bxb5 18. Nc3 Nf5 19. Nxb5 Qxb5 20. Bf1 Qd7 21. Bd3 Nxe3 22. Kxe3 Be7 23. Qd2 O-O 24. Rhc1 Rxc1 25. Rxc1 Rc8 26. Rxc8+ Qxc8 27. Qc2 Qxc2 28. Bxc2 Kf8 29. a3  1/2-1/2
+
+[Event "Degli Scudi 2014"]
+[Site "Vimercate"]
+[Date "2014.07.12"]
+[Round "3"]
+[White "G. Ciochetta"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1746"]
+[ECO "B19"]
+[EventDate "2014.07.11"]
+[WhiteElo "1555"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3 Bxd3 9. Qxd3 Ngf6 10. Bd2 e6 11. c4 Bd6 12. O-O-O O-O $10 13. Ne4 Nxe4 14. Qxe4 Nf6 15. Qd3 b5 16. c5 Bxc5 $6 17. Bxh6 gxh6 18. dxc5 Qxd3 19. Rxd3 $10 Ne4 20. Rf1 Rfd8 ( 20... Nxc5 21. Rc3 Ne4 22. Rxc6 ) 21. Rxd8+ Rxd8 22. b4 f6 23. a3 $6 ( 23. Re1 Nxf2 24. Rxe6 $10 ) 23... Kf7 24. h5 a5 25. Re1 Nxf2 26. Rf1 Ng4 $2 ( 26... Nd3+ 27. Kc2 axb4 28. axb4 Nxb4+ $19 ) 27. Nd2 axb4 28. axb4 Rd4 29. Kc2 $2 Rxb4 $2 ( 29... Ne3+ 30. Kc3 Nxf1 31. Kxd4 Nxd2 $19 ) 30. Ra1 Ne3+ 31. Kd3 Nxg2 32. Ra7+ Ke8 33. Rh7 Rh4 34. Rxh6 Nf4+ 35. Kc3 Rxh5 36. Rxh5 Nxh5 37. Ne4 Kd7 38. Kb4 f5 39. Ng5 e5 40. Nf7 Ke6 41. Nd8+ Kd5 42. Nf7 e4 43. Nd6 f4 44. Nf5 e3 45. Ne7+ Ke4 46. Nxc6 e2 47. Kxb5 e1=Q 48. Nb4 Nf6 49. c6 Nd5 50. Na6 Qe2+  0-1
+

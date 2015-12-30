@@ -1,0 +1,118 @@
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.05"]
+[Round "1"]
+[White "Luca Bariani"]
+[Black "Andrea Giancola"]
+[Result "1-0"]
+[BlackElo "1800"]
+[ECO "B01"]
+[WhiteElo "1545"]
+
+1. e4 d5 2. exd5 Nf6 3. b3 c6 4. dxc6 Nxc6 5. Nf3 Bg4 ( 5... e5 6. Bb2 Bc5 7. Nxe5 Nxe5 8. Bxe5 Bxf2+ 9. Kxf2 Ng4+ 10. Kg1 Nxe5 $10 ) 6. Bb2 e5 7. d3 Bc5 ( 7... e4 8. dxe4 Qxd1+ 9. Kxd1 Nxe4 10. Ke1 Bc5 11. Be2 O-O 12. Nbd2 Nxf2 13. Rf1 Bxf3 14. gxf3 Rad8 $17 ) 8. Be2 O-O 9. O-O Qc7 10. Nbd2 Nd5 11. Ne4 Bb6 12. c4 Nf4 13. c5 Ba5 14. a3 Qe7 15. b4 Bc7 16. Qc2 f5 17. Ng3 Nxe2+ 18. Qxe2 Kh8 19. h3 Bxf3 20. Qxf3 $16 e4 $2 21. dxe4 f4 $2 22. Nf5 $18 Rxf5 23. exf5 Ne5 24. Qxb7 Rf8 25. Bxe5 Qxe5 26. Rfe1 Qxf5 27. Qxc7 f3 28. Qg3 fxg2  1-0
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.07"]
+[Round "2"]
+[White "Andrea Giancola"]
+[Black "Anio Fusco"]
+[Result "1-0"]
+[BlackElo "1516"]
+[ECO "B12"]
+[WhiteElo "1800"]
+
+1. e4 c6 2. d4 d5 3. e5 h5 4. c4 g6 5. Nc3 Na6 6. f4 Nc7 7. Nf3 Bg4 8. Be3 Nh6 9. Qb3 $6 Rb8 ( 9... Bxf3 10. gxf3 Nf5 $15 ) 10. Nh4 e6 11. g3 Be7 12. Ng2 Nf5 13. h3 Nxg3 14. Rh2 Bf5 15. Kf2 Bh4 16. Kf3 Nxf1 17. Rxf1 $19 Be4+ $6 ( 17... Bd3 $1 18. Rc1 dxc4 ) 18. Nxe4 dxe4+ 19. Kxe4 b5 20. Rg1 $6 ( 20. Nxh4 Qxh4 $15 ) 20... Bg3 21. Rhh1 bxc4 22. Qxc4 h4 23. Qxc6+ Qd7 $6 ( 23... Kf8 ) 24. Qxd7+ Kxd7 $16 25. b3 Nd5 26. Rc1 Rhc8 27. Rxc8 $2 ( 27. Bd2 ) 27... Rxc8 28. Rc1 Nxe3 29. Rxc8 Nxg2 $15 30. Rf8 Ke7 31. Ra8 f5+ 32. exf6+ Kxf6 33. Rxa7 Nxf4 34. a4 Nxh3 35. a5 Nf2+ $4 ( 35... Ng5+ 36. Ke3 h3 37. Ra8 h2 38. Rh8 Kg7 39. Rxh2 Bxh2 40. b4 Bc7 $19 ) 36. Kf3 g5 37. a6 g4+ 38. Kg2 h3+ $2 ( 38... Ne4 39. Ra8 h3+ 40. Kf1 ( 40. Kh1 $4 Nf2+ 41. Kg1 h2+ 42. Kg2 h1=Q+ ) 40... Kg7 41. a7 Nf2 42. Re8 h2 43. Re7+ Kg6 44. Rxe6+ Kg5 45. a8=Q $16 ) 39. Kxg3 Ne4+ 40. Kxg4 h2 41. Rh7 h1=Q 42. Rxh1 Nf2+ 43. Kf3  1-0
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.06"]
+[Round "3"]
+[White "Giovanni Squadrani"]
+[Black "Andrea Giancola"]
+[Result "1/2-1/2"]
+[BlackElo "1800"]
+[ECO "B12"]
+[WhiteElo "1579"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h6 6. O-O Nd7 7. Be3 Ne7 8. Nbd2 Bh7 9. h3 Nf5 10. Nh2 Be7 11. Bg4 f6 ( 11... Nxe3 12. fxe3 Qb6 13. b3 c5 14. c3 Rc8 15. Rc1 Bd3 $17 ) 12. Bh5+ g6 13. Bg4 Nxe3 14. fxe3 f5 15. Bf3 Bg5 16. e4 Qb6 17. Nb3 Nxe5 $6 ( 17... dxe4 18. Be2 Nxe5 $19 ) 18. exd5 cxd5 19. Bxd5 O-O-O ( 19... exd5 $6 20. Re1 $15 ) 20. Bxe6+ Qxe6 21. Qe1 Qb6 22. Qxe5 Rhe8 23. Qc5+ Qxc5 24. dxc5 Re2 25. Nf3 Bf6 26. Rf2 Rxf2 27. Kxf2 Bxb2 28. Rb1 Bc3 29. Ke2 f4 30. h4 Bf6 31. Na5 Rd7 32. Nc4 g5 33. Nd6+ Kb8 34. hxg5 hxg5 35. Rc1 Bg6 36. c4 Kc7 ( 36... Re7+ 37. Kd2 g4 38. Nh2 f3 39. gxf3 Bg5+ 40. Kd1 g3 $19 ) 37. Rh1 g4 38. Nh4 Re7+ 39. Kd2 Bh7 $6 ( 39... Rh7 40. Nxg6 Rxh1 41. Ne8+ Kd8 42. Nxf6 Rh6 $19 ) 40. Nhf5 Rd7 41. Ke2 $17 Kc6 $2 42. Rh6 Bg5 ( 42... Bxf5 43. Rxf6 Bb1 44. Nxb7+ Kc7 $14 ) 43. Rh5 $2 ( 43. Nd4+ Kxc5 44. Ne6+ Kxd6 45. Nxg5+ Kc5 46. Nxh7 Kxc4 $14 ) 43... Bf6 44. Rh6 Bb2 45. Nf7+ Kxc5 46. Rxh7 Kb4 47. Ng5 ( 47. N5d6 Re7+ 48. Kf1 Bc3 49. Ng5 Rxh7 50. Nxh7 Be5 51. Nxb7 Kxc4 $16 ) 47... f3+ 48. gxf3 gxf3+ 49. Kxf3 Rxh7 50. Nxh7 Kxc4 51. Nd6+ Kb4 52. Nxb7 Ka3  1/2-1/2
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.08"]
+[Round "4"]
+[White "Andrea Giancola"]
+[Black "Andrea Gennari"]
+[Result "1-0"]
+[BlackElo "1615"]
+[ECO "C07"]
+[WhiteElo "1800"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Nc6 5. Ngf3 cxd4 6. cxd4 Bb4 7. e5 Nge7 8. Bd3 Bd7 9. O-O Rc8 10. Nb3 Ba5 11. Ng5 Nf5 $2 12. Bxf5 exf5 13. Qh5 Qe7 14. Nxh7 ( 14. Nxa5 Nxa5 15. e6 $1 Bxe6 16. Nxe6 Qxe6 17. Bd2 Qb6 18. Rae1+ Kf8 19. Qxf5 Rd8 20. Bg5 Ra8 21. Re7 $18 ) 14... Rg8 15. Bg5 Qe6 16. Nc5 ( 16. Bf6 gxf6 17. Nxf6+ Kd8 18. Nc5 Qe7 19. Nxd5 Qf8 20. Nxb7+ $18 ) 16... Qg6 17. Qxg6 fxg6 18. Nxb7 ( 18. e6 Bxe6 19. Nxe6 Rh8 20. Nxg7+ Kf7 21. Nf6 Kxg7 22. Nxd5 ) 18... Bc7 19. Be3 Rb8 20. Nc5 Rh8 21. Ng5 Rxb2 22. Rfb1 Rxb1+ 23. Rxb1 Bb6 24. Nxd7 Kxd7 25. Nf3 Rc8 26. Kf1 Na5 27. Rc1 Nc4 28. Ke2 Ba5 29. Rb1 Nb6 30. Rc1 Nc4 31. Nd2 Bxd2 32. Bxd2 Rb8 33. Bc3 Rb6 34. Rc2 Ke7 35. Kf3 g5 36. Bd2 g4+ 37. Kf4 g6 38. Kg3 Kf7 39. Bg5 a6 40. Kf4 Ke6 ( 40... Rb1 41. Kg3 Rd1 42. Be3 $14 ) 41. h4 gxh3 42. gxh3 Rb7 ( 42... Rb1 43. Kg3 Rg1+ 44. Kh4 $14 ) 43. h4 Rb4 44. Bf6 Rb7 45. Kg5 $18 Kf7 46. h5 gxh5 47. Kxf5 Rb6 48. Kg5 a5 49. Kxh5 Rxf6 50. exf6 Kxf6 51. Kg4  1-0
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.08"]
+[Round "5"]
+[White "Claudio Castellari"]
+[Black "Andrea Giancola"]
+[Result "1/2-1/2"]
+[BlackElo "1800"]
+[ECO "E85"]
+[WhiteElo "1662"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Bd3 $2 Ne8 $2 ( 7... Ng4 8. fxg4 exd4 9. Bxd4 Bxd4 10. Nge2 Bxg4 $17 ) 8. Nge2 Nc6 9. d5 Ne7 10. c5 f5 11. cxd6 cxd6 12. O-O f4 13. Bf2 g5 14. Rc1 g4 15. Kh1 Bh6 16. Qd2 Ng6 17. fxg4 Bxg4 ( 17... Qg5 18. Ng1 ( 18. h3 $2 f3 19. Qxg5 Bxg5 $17 ) 18... f3 19. Qxg5 fxg2+ 20. Kxg2 Bxg5 21. Rcd1 Bxg4 $15 ) 18. Ng1 Qf6 19. Nf3 Bg5 20. Be2 h5 21. Nxg5 Qxg5 22. Bf3 Kh8 23. Nb5 Rf7 24. Qb4 Rd7 25. Nxa7 Nh4 26. Bxh4 Qxh4 $16 27. Rc8 $2 Rxc8 28. Nxc8 Qg5 $2 ( 28... Bxf3 29. gxf3 Qh3 30. Qe1 Rg7 31. Qf2 Qxc8 $19 ) 29. Nb6 Rg7 30. Qd2 h4 31. Qf2 Nf6 32. Nc4 Nh5 $6 ( 32... h3 33. gxh3 Bxh3 34. Re1 $13 ) 33. Bxg4 Qxg4 34. Qf3 Qg6 35. Re1 Rh7 36. Kg1 h3 37. Qxh3 Nf6 38. Qc8+ Kg7 39. Qe6 $2 ( 39. Nxd6 $18 ) 39... f3 40. g3 Rxh2 $1 41. Kxh2 Ng4+ 42. Qxg4 ( 42. Kg1 f2+ 43. Kf1 fxe1=Q+ 44. Kxe1 Qxe4+ 45. Kd1 Nf2+ 46. Kd2 Qxc4 $13 ) 42... Qxg4 43. Nxd6 f2 $4 ( 43... Qh5+ 44. Kg1 Qh3 $19 ) 44. Rf1 Qe2 45. Kg2 Qxb2 46. Rxf2 $14 Qb4 47. Nf5+ Kh7 48. Re2 Qc4 49. Kf2 Qc5+ 50. Kf1 Qc1+ 51. Kf2 Qc5+ 52. Ne3 Qf8+ 53. Nf5 Qc5+ 54. Kf3 Qc3+ 55. Re3 Qd2 56. a3 Kg6 57. d6 ( 57. Kg4 b5 58. Nh4+ Kh6 59. Rf3 $13 ) 57... Qd1+ 58. Kf2 Qd2+ 59. Re2 Qd3 60. Re3 Qd2+ 61. Re2 Qd3 62. Re3  1/2-1/2
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.10"]
+[Round "6"]
+[White "Andrea Giancola"]
+[Black "Giacomo Beccarini"]
+[Result "0-1"]
+[BlackElo "1552"]
+[ECO "B23"]
+[WhiteElo "1800"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Bc4 e6 5. Nf3 a6 6. a4 Qc7 7. d3 Nge7 8. O-O g6 9. f5 exf5 10. exf5 Bxf5 11. Ng5 Ne5 12. Nd5 ( 12. Bf4 Nxc4 13. dxc4 Bg7 14. Nd5 Nxd5 15. Qxd5 O-O 16. Bxd6 $16 ) 12... Nxd5 13. Bxd5 h6 14. Nxf7 Nxf7 15. Bxf7+ $6 ( 15. g4 O-O-O 16. gxf5 gxf5 17. Rxf5 $14 ) 15... Qxf7 16. g4 Rg8 17. gxf5 gxf5+ 18. Kh1 Qd5+ 19. Qf3 Qxf3+ 20. Rxf3 O-O-O 21. Bd2 ( 21. Rxf5 Re8 22. Bf4 Re2 23. Rf7 Be7 $15 ( 23... Rxc2 $2 24. Rg1 Rxg1+ 25. Kxg1 Rxb2 26. Rxf8+ $18 ) ) 21... Re8 22. Re1 Rxe1+ 23. Bxe1 Bg7 24. Rxf5 Bxb2 25. c3 Re8 26. Bd2 Re2 27. Bxh6 ( 27. Bf4 Bxc3 28. Bxd6 $17 ) 27... Bxc3 $19 28. h4 Be5 29. h5 b5 30. Rf8+ Kb7 31. axb5 axb5 32. Bg7 Rh2+ 33. Kg1 Rxh5 34. Bxe5 Rxe5 35. Rf2 b4 36. Kf1 Kb6 37. Rb2 Kb5 38. Kf2 d5 39. Rd2 c4 40. d4 Re4  0-1
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.11"]
+[Round "7"]
+[White "Enrico Zanotto"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1800"]
+[ECO "E92"]
+[WhiteElo "1617"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. d5 Ne8 8. Bg5 f6 9. Bh4 g5 10. Bg3 f5 11. exf5 Bxf5 12. Qd2 h6 13. O-O-O Nd7 14. Bd3 Nc5 15. Bxf5 Rxf5 16. Qe2 a5 17. h4 g4 18. Nd2 h5 19. Nde4 Bh6+ 20. Kb1 b6 $6 ( 20... Nxe4 21. Nxe4 Nf6 $14 ) 21. f3 gxf3 22. gxf3 a4 $6 ( 22... Qd7 23. Bf2 Qf7 $16 ) 23. Rhg1 Kh8 24. Ng5 ( 24. Bf2 Qe7 25. Rg6 Qh7 26. Rdg1 $16 ) 24... Ng7 25. Be1 Bxg5 26. hxg5 Qf8 27. Ne4 Rxf3 28. Nf6 Rxf6 29. gxf6 Qxf6 $18 30. Bd2 $2 Qf5+ $1 31. Ka1 Nb3+ $140 { segue axb3 axb3+ e matto}   0-1
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.12"]
+[Round "8"]
+[White "Andrea Giancola"]
+[Black "Alessandro Tempestini"]
+[Result "1-0"]
+[BlackElo "1676"]
+[ECO "B23"]
+[WhiteElo "1800"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. e5 a6 5. Nf3 Nc6 6. d4 Bd7 7. Ne2 Qb6 8. c3 cxd4 9. Nexd4 Nge7 ( 9... Nxd4 10. Nxd4 Bc5 $15 ) 10. Bd3 Nxd4 11. Nxd4 Nc6 12. Nb3 Na5 13. Nxa5 Qxa5 14. Be3 Bb5 $6 15. Bc2 Be7 16. f5 exf5 $14 ( 16... O-O 17. f6 gxf6 18. Qg4+ ( 18. Bxh7+ Kxh7 19. Qh5+ Kg8 20. Qg4+ Kh8 21. Qh3+ Kg8 22. Bh6 -- 23. Qg3+ ) 18... Kh8 19. Qh4 f5 20. Qxe7 $18 ) ( 16... O-O-O 17. Qd4 Qc7 18. a4 Bc6 $16 ) 17. Bxf5 ( 17. Qxd5 Rd8 18. Qxb7 $13 ) 17... Bd7 $2 18. Bxd7+ Kxd7 19. Qg4+ Kc6 20. O-O Bc5 21. Rxf7 $1 ( 21. Bd4 Bxd4+ 22. cxd4 $18 ) 21... Bxe3+ 22. Kh1 Rad8 ( 22... Qd8 23. Qe6+ { ecc}  ) 23. Qe6+ $140 Kb5 ( 23... Kc5 24. b4+ ) 24. Rxb7+ Kc4 25. Rd1 Bc5 26. Rc7 Qa4 ( 26... Qxc7 27. Qxa6# ) 27. Rd4+ Kb5 28. Qc6+ Ka5 29. Rxa4#  1-0
+
+[Event "Cesenatico 2015 - Open B"]
+[Site "Cesenatico"]
+[Date "2015.09.13"]
+[Round "9"]
+[White "Maurizio Franceschelli"]
+[Black "Andrea Giancola"]
+[Result "1-0"]
+[BlackElo "1800"]
+[ECO "A00"]
+[EventDate "2015.09.??"]
+[WhiteElo "1790"]
+
+1. b4 d5 2. Bb2 Bf5 3. b5 Nd7 4. Nf3 Ngf6 5. e3 e6 6. Be2 Bd6 7. Nh4 Bg6 8. Nxg6 fxg6 9. O-O O-O 10. c4 c6 11. a4 Ne4 12. f4 Qh4 13. Qe1 Qh6 14. d3 Nef6 15. Nd2 g5 16. g3 Nh5 ( 16... gxf4 17. exf4 e5 $17 ) 17. Qd1 Nxf4 $5 18. exf4 gxf4 19. Kg2 ( 19. gxf4 Bxf4 20. Nf3 $14 ) 19... fxg3 20. hxg3 Qe3 $6 ( 20... Qg6 $14 ) 21. Rf3 Rxf3 22. Nxf3 e5 23. Qd2 Qxd2 24. Nxd2 $18 Rf8 25. Rf1 Rxf1 26. Nxf1 cxb5 27. cxb5 Kf7 28. Bf3 Nf6 29. Nd2 h5 30. Bd1 Ke6 31. Bb3 Kf5 32. Kf3 g5 33. Nf1 d4 34. Nd2 h4 $6 35. gxh4 gxh4 36. Ne4 Nxe4 37. dxe4+ Kg5 38. Bc1+ Kg6 39. Bd2 Be7 40. Kg4 h3 41. Kxh3 Bg5 42. Bb4 d3 43. Kg4 Be3 44. Kf3 Bd4 45. Bd2 Kf6 46. Bc4 Ke7 47. Bxd3 b6 48. Bc4 Kd6 49. Bb4+ Kd7 50. Kg4 Bb2 51. Kf5 Bd4 52. Bf8 Bb2 53. Bd5 Bd4 54. Bc6+ Kd8 55. Bd6  1-0
+
