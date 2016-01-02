@@ -1,8 +1,8 @@
 # TODO
 
-- eliminazione (manuale) null moves da miei PGN
-- aggiunta tutti PGN a git
 
+- aggiungere campo Event dove manca, e anno nel nome dove manca
+- aggiungere campo nome torneo prima di tabella
 
 - palette improvements
 
