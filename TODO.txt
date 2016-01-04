@@ -1,9 +1,5 @@
 # TODO
 
-
-- aggiungere campo Event dove manca, e anno nel nome dove manca
-- aggiungere campo nome torneo prima di tabella
-
 - palette improvements
 
 - transcoding Annotation Glyphs client-side

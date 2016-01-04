@@ -4,6 +4,8 @@ var currPgnMetadata = null;
 var currPgnData = null;
 
 $(document).ready(function() {
+	$("#eventName").hide();
+	$("#gamesTable").hide();
 
 	$.getJSON(url="pgn_index.json", success=function(jsonData, textStatus, jqXHR) {
 		allMetadata = jsonData;
@@ -23,7 +25,9 @@ $(document).ready(function() {
 			var pgnPath = currPgnMetadata.file;
 			$.get(url=pgnPath, success=function(pgnData) {
 				currPgnData = pgnData;
-				//update games table
+				//show and update games table
+				$("#eventName").text(currPgnMetadata.label);
+
 				$("#gamesTable tbody").html("");
 				for (var i = 0; i < gamesMetadata.length; i++) {
 					var g = gamesMetadata[i];
@@ -63,7 +67,16 @@ $(document).ready(function() {
 						movesFormat: 'default'
 					});
 
+					$("#gameMetadata").show();
+					$("#myboard-container").show();
+					$("#myboard-moves").show();
 				});
+
+				$("#gameMetadata").hide();
+				$("#myboard-container").hide();
+				$("#myboard-moves").hide();
+				$("#eventName").show();
+				$("#gamesTable").show();
 			});
 		});
 	});

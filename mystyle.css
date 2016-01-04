@@ -23,14 +23,14 @@
 	display: inline-block;
 }
 
- .profileLabel {
+.profileLabel {
  	width: 60%;
  	display: inline-block;
  	text-align: left;
  	vertical-align: top;
  }
 
- .profileValue {
+.profileValue {
  	width: 40%;
  	display: inline-block;
  	text-align: right;
@@ -42,6 +42,10 @@
 
 .btn-group {
     margin-top: 15px;
+}
+
+#eventName {
+    font-size: 160%;
 }
 
 #gamesTable {
