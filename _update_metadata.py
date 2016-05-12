@@ -55,7 +55,7 @@ def parse_pgn(pgn_file):
 					state = PARSE_TAGS
 				elif state == PARSE_MOVES:
 					parse_error(pgn_file, i_line)
-					store_game(pgn_data, curr_game)
+					add_game_metadata(pgn_data, curr_game)
 					curr_game = {}
 					state = PARSE_TAGS
 				else:
@@ -88,7 +88,7 @@ def parse_pgn(pgn_file):
 
 			else:
 				parse_error(pgn_file, i_line)
-				store_game(pgn_data, curr_game)
+				add_game_metadata(pgn_data, curr_game)
 				state = PARSE_START
 
 			i_line = i_line + 1
@@ -111,6 +111,7 @@ def normalize_paths():
 
 def parse_error(pgn_file, i_line):
 	print '!! Parse error at line ' + str(i_line) + ' of file ' + pgn_file
+
 
 def add_game_metadata(pgn_data, curr_game):
 	if not curr_game is None and len(curr_game) > 0:
