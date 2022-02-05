@@ -1,0 +1,105 @@
+[Event "Campionato Regionale Lombardo"]
+[Site "Vimercate"]
+[Date "2016.05.27"]
+[Round "1"]
+[White "Andrea Giancola"]
+[Black "Ludwig Rettore"]
+[Result "0-1"]
+[BlackElo "2080"]
+[ECO "B80"]
+[EventDate "2016.05.27"]
+[WhiteElo "1755"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 Nf6 7. f3 Be7 8. Nb3
+a6 9. Be2 b5 10. O-O Bb7 11. Qd2 Ne5 12. Bd4 Nc4 13. Qg5 $6 e5 14. Bf2 O-O 15.
+Qc1 Rc8 16. Nd2 Na5 17. Bd3 Nd7 18. Nd5 Bxd5 19. exd5 Nb6 $15 20. f4 $6 ( 20.
+Qe1 Nxd5 21. Bf5 Rb8 22. Bxh7+ Kxh7 23. Qe4+ $15 ) 20... Nxd5 21. fxe5 dxe5 22.
+Qe1 Nc6 $6 ( 22... Nb4 $17) 23. Rd1 Qc7 24. Bg3 ( 24. Qe4 Nf6 25. Qe2 $15 )
+24... Bc5+ 25. Kh1 Ne3 $19 26. Rf3 Nxd1 27. Bxe5 Nxe5 28. Bxh7+ Kxh7 29. Qh4+
+Kg8 30. Rh3 Nf2+  0-1
+
+[Event "Campionato Regionale Lombardo"]
+[Site "Vimercate"]
+[Date "2016.05.28"]
+[Round "2"]
+[White "Ezio Pirovano"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1755"]
+[ECO "B01"]
+[EventDate "2016.05.27"]
+[WhiteElo "1442"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. c4 Nb6 6. Be2 e6 7. O-O Nc6 8. c5
+Nd5 9. Nc3 Be7 10. Nxd5 $6 Qxd5 11. Be3 O-O 12. b3 Bf6 13. Bc4 Qh5 14. Be2 Rad8
+15. Re1 $17 Qg6 16. Bd3 $2 Bxf3 17. Bxg6 Bxd1 18. Bxh7+ Kxh7 19. Raxd1 Nxd4 20.
+Rc1 c6 21. Kf1 Nf5 22. Bf4 g5 23. Be5 Bxe5 24. Rxe5 Rd5 25. Rce1 Rfd8 26. Rxd5
+Rxd5 27. b4 Kg6 28. f3 Kf6 29. Kf2 Rd2+ 30. Re2 Rxe2+ 31. Kxe2 Ke5 32. a3 Kd4
+33. Kd2 Kc4 34. g4 Nh4 35. Ke3 f5 36. f4 gxf4+ 37. Kxf4 Ng6+ 38. Kg5 f4  0-1
+
+[Event "Campionato Regionale Lombardo"]
+[Site "Vimercate"]
+[Date "2016.05.28"]
+[Round "3"]
+[White "Andrea Giancola"]
+[Black "Daniele Prevedello"]
+[Result "0-1"]
+[BlackElo "1993"]
+[ECO "B12"]
+[EventDate "2016.05.27"]
+[WhiteElo "1755"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c3 Nc6 7. O-O Nge7 8. Nh4 $2
+Bg6 ( 8... cxd4 9. cxd4 Qb6 $15 ) 9. Bg5 $2 ( 9. dxc5 $14 Nxe5 ) 9... Qb6 10.
+dxc5 Qxb2 11. Nd2 ( 11. Qd2 Qxd2 ( 11... Qxa1 12. Na3 Qxf1+ 13. Kxf1 $15 ) 12.
+Nxd2 Nxe5 13. Nxg6 N7xg6 14. Bb5+ Nc6 $15 ) 11... Qxc3 12. Rc1 Qxe5 13. Ndf3
+Qc7 14. Bb5 a6 15. Ba4 Nf5 ( 15... Bh5 $19) 16. Nxf5 Bxf5 $10 17. Nd4 Bg6 18.
+Re1 Be7 19. Nxe6 $2 ( 19. Bxc6+ bxc6 20. Nxe6 fxe6 21. Rxe6 $10 ) 19... fxe6
+20. Rxe6 O-O 21. Bxc6 Bxg5 22. Rxg6 Bxc1 23. Bxd5+ Kh8 24. Qxc1 hxg6 25. Qc4
+Qf4 ( 25... Rfe8 26. Qh4# )  0-1
+
+[Event "Campionato Regionale Lombardo"]
+[Site "Vimercate"]
+[Date "2016.05.29"]
+[Round "4"]
+[White "Nicolò Samuelli"]
+[Black "Andrea Giancola"]
+[Result "0-1"]
+[BlackElo "1755"]
+[ECO "A15"]
+[EventDate "2016.05.27"]
+[WhiteElo "1453"]
+
+1. c4 Nf6 2. d3 c5 3. Nf3 Nc6 4. g3 e5 5. Nc3 Be7 6. Bg2 O-O 7. O-O d6 8. Bg5
+Ne8 9. Bxe7 Nxe7 10. Nd2 f5 11. a3 Nf6 12. b4 Rb8 13. Qb3 b6 14. b5 $6 Qe8 15.
+Rfe1 Qh5 $2 16. Qd1 $2 ( 16. Qa4 $16) 16... Ng4 17. h3 f4 $2 ( 17... Nxf2 $6
+18. Kxf2 f4 19. g4 Qh4+ 20. Kg1 ) 18. hxg4 Bxg4 19. Bf3 fxg3 20. fxg3 Qh3 21.
+Nde4 Nf5 22. Bxg4 Qxg4 $18 23. Kh2 $2 ( 23. e3 $18) 23... Nxg3 $6 ( 23... Qh5+
+24. Kg1 ( 24. Kg2 Ne3+ ) 24... Qh3 25. Qd2 ( 25. Rf1 Ne3 ) 25... Nxg3 26. Nxg3
+Qxg3+ 27. Kh1 Rf2 )  0-1
+
+[Event "Campionato Regionale Lombardo"]
+[Site "Vimercate"]
+[Date "2016.05.29"]
+[Round "5"]
+[White "Andrea Giancola"]
+[Black "Fabio Colonnetti"]
+[Result "1-0"]
+[BlackElo "1733"]
+[ECO "B03"]
+[EventDate "2016.05.27"]
+[WhiteElo "1755"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O Be6
+( 8... dxe5 9. fxe5 c5 10. d5 $14 ) 9. Nbd2 c5 10. d5 Bc8 11. Bd3 $6 ( 11. Ne4
+Bf5 12. Ng3 $16 ) 11... Na6 ( 11... e6 $15) 12. a3 Nc7 13. b3 e6 14. dxe6 ( 14.
+Ne4 dxe5 15. d6 $14 ) 14... dxe5 15. exf7+ Rxf7 16. Ne4 exf4 17. Ra2 $17 Ne6 $6
+( 17... Bg4) 18. Bb2 Bxb2 $6 ( 18... Rd7) 19. Rxb2 Qc7 20. Qe1 Nd4 21. Nfg5 Rf8
+22. Qh4 Be6 $2 ( 22... Qg7 23. Nxc5 h6 24. Nge4 g5 25. Qf2 f3 $10 ) 23. Nxc5 (
+23. Nxe6 Nxe6 24. Nf6+ Kh8 25. Re1 g5 26. Qxh7+ Qxh7 27. Nxh7 $18 Ng7 ) 23...
+Bf5 24. Bxf5 Nxf5 $6 25. Nce6 Nxh4 26. Nxc7 Rac8 27. Nce6 Rf6 28. Rxf4 Rxf4 29.
+Nxf4 Nf5 30. Rd2 a5 31. Nd5 ( 31. c5 $1 Na8 ( 31... Rxc5 32. Rd8+ Kg7 33. Nge6+
+) 32. Rd7 $18 ) 31... Nxd5 32. cxd5 Rd8 33. Kf2 Ne7 $6 34. d6 Nc6 35. Ke3 Rd7
+36. Ke4 Kg7 37. Ne6+ Kf6 38. Nc5 Rg7 39. d7 Re7+ 40. Kd5 Re1 41. Nxb7 Ne7+ 42.
+Kc5 Rc1+ 43. Kb5 Nc6 44. d8=Q+ Nxd8 45. Nxd8  1-0
+
